@@ -1,1 +1,1 @@
-# corona.html
+# corona
